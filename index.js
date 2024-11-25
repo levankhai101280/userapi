@@ -10,10 +10,10 @@ app.get('/users', (req, res) => {
     const users = [
         { 
             id: 1, 
-            name: 'John Doe', 
+            name: 'Van Khai', 
             age: 28, 
-            email: 'john.doe@example.com', 
-            address: '123 Main St, Springfield, IL' 
+            email: 'khai101280@donga.edu.vn', 
+            address: '300 xô viết nghệ tĩnh' 
         },
         { 
             id: 2, 
